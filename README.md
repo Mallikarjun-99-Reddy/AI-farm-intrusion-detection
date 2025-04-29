@@ -111,8 +111,5 @@ path = kagglehub.dataset_download("awsaf49/coco-2017-dataset")
 - Extended detection for more animal classes.
 - Web dashboard for alert monitoring and statistics.
 
----
 
-## 📜 License
-Licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
